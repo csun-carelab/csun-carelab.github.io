@@ -15,7 +15,7 @@ Please send an email with your resume and a short description of your interests 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html background="images/background.jpg" dark=false %}
 
 *"Scenius stands for the intelligence and the intuition of a whole cultural scene. It is the communal form of the concept of the genius." - Brian Eno*
 
