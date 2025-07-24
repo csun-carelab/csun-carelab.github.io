@@ -3,7 +3,7 @@
 
 # Overview
 
-Welcome to the CARE Lab at California State University, Northridge! We develop mechanisms, interfaces, and learning algorithms to support seamless **human and robot interactions**. Our goal is to enable robots to understand humans, learn from them, and assist them in their daily activities. Our research is, by nature, interdisciplinary --- combining principles from *mechanical design*, *control theory*, and *machine learning*.
+Welcome to the CARE Lab at California State University, Northridge! We develop mechanisms, interfaces, and learning algorithms to create seamless **human and robot interactions**. Our goal is to enable robots to understand humans, learn from them, and assist them in their daily lives. Our research is, by nature, interdisciplinary --- combining principles from *mechanical design*, *control theory*, and *machine learning*.
 
 
 {% include section.html %}
@@ -12,12 +12,13 @@ Welcome to the CARE Lab at California State University, Northridge! We develop m
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We explore several aspects of human-robot interaction. Broadly, our research can be catergorized into three thrusts:
+*mechanism design* (shown on left), *robot learning*, *human modeling*.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="Browse our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -27,13 +28,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research_photo.png"
   link="research"
   title="Our Research"
   text=text
 %}
 
-{% capture text %}
+<!-- {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -56,11 +57,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
   text=text
-%}
+%} -->
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research efforts are led by self-motivated and hard-working students from the CSUN community. We are actively recruiting --- interested undergraduate and graduate students should contact the PI (contact provided on the team page).
 
 {%
   include button.html
