@@ -12,8 +12,8 @@ Welcome to the CARE Lab at California State University, Northridge! We develop m
 
 {% capture text %}
 
-We explore several aspects of human-robot interaction. Broadly, our research can be catergorized into three thrusts:
-*mechanism design* (shown on left), *robot learning*, *human modeling*.
+We explore several aspects of human-robot interaction. Broadly, our work can be catergorized into three research thrusts:
+**mechanism design**, **robot learning**, and **human modeling**.
 
 {%
   include button.html
@@ -34,7 +34,30 @@ We explore several aspects of human-robot interaction. Broadly, our research can
   text=text
 %}
 
-<!-- {% capture text %}
+{% capture text %}
+
+Our research efforts are led by self-motivated and hard-working students from the CSUN community. We are **actively recruiting** --- interested undergraduate and graduate students should contact the PI (see contact on the team page).
+
+{%
+  include button.html
+  link="team"
+  text="Meet our team"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="team"
+  title="Our Team"ss
+  text=text
+%}
+
+{% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -56,28 +79,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="Our Projects"
   flip=true
   style="bare"
-  text=text
-%} -->
-
-{% capture text %}
-
-Our research efforts are led by self-motivated and hard-working students from the CSUN community. We are actively recruiting --- interested undergraduate and graduate students should contact the PI (contact provided on the team page).
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
   text=text
 %}
