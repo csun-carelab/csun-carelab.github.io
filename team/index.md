@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 We are actively looking for graduate and undergradute students to join our research group!
-Please send an email with your resume and a short description of your interests to heynemlekar@gmail.com
+Please send an email with your resume and a short description of your interests to Dr. Nemlekar at heynemlekar@gmail.com
 
 {% include section.html %}
 
