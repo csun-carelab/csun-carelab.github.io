@@ -5,6 +5,8 @@ description:
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
+header-dark: false
+footer-dark: false
 
 # site social media and other links
 links:
@@ -56,8 +58,6 @@ highlighter: rouge
 
 # jekyll theme
 theme: null
-header-dark: true
-footer-dark: true
 
 # sass settings
 sass:
