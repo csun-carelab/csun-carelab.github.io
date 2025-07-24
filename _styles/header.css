@@ -27,7 +27,7 @@ header a {
 }
 
 .logo {
-  height: 45px;
+  height: 35px;
 }
 
 .logo > * {
@@ -129,7 +129,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 105px;
+  height: 95px;
   flex-shrink: 0;
 }
 header[data-big] .title-text {
