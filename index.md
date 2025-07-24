@@ -64,3 +64,5 @@ Our research efforts are led by self-motivated and hard-working students from th
 {% capture text %}
 
 Coming soon!
+
+{% endcapture %}
