@@ -1,27 +1,26 @@
 ---
 title: Research
 nav:
-  order: 2
+  order: 1
   tooltip: Research directions of our lab!
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-road" %}Research Directions
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Each of our projects focuses on one or more of three elements: the *robot*, the *algorithm* that drives the robot, or the *human* that interacts with the robot. You can click on any of the buttons below to sort our research based its key element.
 
-{% include section.html %}
-
-## Highlighted
-
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
-
-{% include section.html %}
-
-## All
-
-{% include search-box.html %}
+{% include tags.html tags="publication, resource, website" %}
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include section.html %}
+
+## Current
+
+{% include list.html component="card" data="projects" filter="group == 'current'" %}
+
+{% include section.html %}
+
+## Previous
+
+{% include list.html component="card" data="projects" filter="!group" style="small" %}
