@@ -51,7 +51,7 @@ Our research efforts are led by self-motivated and hard-working students from th
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team_photo.png"
   link="team"
   title="Our Team"
   flip=true
