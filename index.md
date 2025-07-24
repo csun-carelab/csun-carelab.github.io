@@ -3,7 +3,7 @@
 
 # Overview
 
-Welcome to the CARE Lab at California State University, Northridge! We develop mechanisms, interfaces, and learning algorithms to support seamless **human and robot interactions**. Our goal is to enable robots to understand humans, learn from them, and assist them in their daily activities. Our research is, by nature, interdisciplinary --- combining principles from *mechanical design*, *control theory*, *machine learning*, and *human modeling*.
+Welcome to the CARE Lab at California State University, Northridge! We develop mechanisms, interfaces, and learning algorithms to support seamless **human and robot interactions**. Our goal is to enable robots to understand humans, learn from them, and assist them in their daily activities. Our research is, by nature, interdisciplinary --- combining principles from *mechanical design*, *control theory*, and *machine learning*.
 
 
 {% include section.html %}
