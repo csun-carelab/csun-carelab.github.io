@@ -5,6 +5,6 @@
 
   # csun-carelab's Website
 
-  Visit **[csun-carelab.github.io/csun-carelab](https://csun-carelab.github.io/csun-carelab)** 🚀
+  Visit **[csun-carelab.github.io](https://csun-carelab.github.io)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
