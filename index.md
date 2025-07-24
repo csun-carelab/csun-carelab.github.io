@@ -54,10 +54,12 @@ Our research efforts are led by self-motivated and hard-working students from th
   image="images/photo.jpg"
   link="team"
   title="Our Team"
+  flip=true
+  style="bare"
   text=text
 %}
 
-{% capture text %}
+<!-- {% capture text %}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
@@ -80,4 +82,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   flip=true
   style="bare"
   text=text
-%}
+%} -->
