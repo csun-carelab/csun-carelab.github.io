@@ -17,7 +17,7 @@ Each of our projects centers on one or more of three elements: the **robot**, th
 
 ## Current
 
-{% include list.html component="card" data="research" filter="group == 'current'" style="small %}
+{% include list.html component="card" data="research" filter="group == 'current'" style="small" %}
 
 {% include section.html %}
 
