@@ -3,7 +3,7 @@
   group: current
   image: images/research_photo.png
   link: https://scholar.google.com/citations?user=S4Pgrb8AAAAJ
-  description: We strive to make it physically easy for robots to perform dexterous tasks such as turning a bottle cap (and for humans who operate them).
+  description: We try to make it physically easy for robots (and for humans who operate them) to perform dexterous tasks such as scooping ice cream.
   repo: csun-carelab
   tags:
     - robot
@@ -13,7 +13,7 @@
   group: current
   image: images/thread_learn.png
   link: https://scholar.google.com/citations?user=S4Pgrb8AAAAJ
-  description: We want to create intelligent robots that can learn to perform assistive tasks (e.g., loading the dishwasher) from human data.
+  description: We want to create intelligent robots that can learn to perform assistive tasks (e.g., making coffee) from human data.
   repo: csun-carelab
   tags:
     - algorithm
@@ -23,7 +23,7 @@
   group: current
   image: images/thread_interact.png
   link: https://scholar.google.com/citations?user=S4Pgrb8AAAAJ
-  description: We need more intuitive, transparent, and interactive interfaces for humans to understand and personalize robot behaviors.
+  description: We need more intuitive and interactive interfaces for humans to understand and personalize robot behavior.
   repo: csun-carelab
   tags:
     - human
