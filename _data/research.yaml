@@ -2,47 +2,48 @@
   subtitle: soft end-effectors, teleoperation devices
   group: current
   image: images/research_photo.png
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://scholar.google.com/citations?user=S4Pgrb8AAAAJ
+  description: We strive to make it physically easy for robots to perform dexterous tasks such as turning a bottle cap (and for humans who operate them).
+  repo: csun-carelab
   tags:
-    - resource
+    - robot
 
 - title: Robot Learning
   subtitle: imitation learning, vision-language-action models, latent representation
   group: current
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/thread_learn.png
+  link: https://scholar.google.com/citations?user=S4Pgrb8AAAAJ
+  description: We want to create intelligent robots that can learn to perform assistive tasks (e.g., loading the dishwasher) from human data.
+  repo: csun-carelab
   tags:
-    - resource
+    - algorithm
 
 - title: Human Interaction
-  subtitle: graphic interfaces, inverse reinforcement learning, user studies
+  subtitle: graphic interfaces, personalization, user studies
   group: current
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/thread_interact.png
+  link: https://scholar.google.com/citations?user=S4Pgrb8AAAAJ
+  description: We need more intuitive, transparent, and interactive interfaces for humans to understand and personalize robot behaviors.
+  repo: csun-carelab
   tags:
-    - resource
-    - publication
+    - human
 
 - title: Task and Motion Planning
-  subtitle: a subtitle
+  subtitle: contingency, permeable obstacles
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://scholar.google.com/citations?user=S4Pgrb8AAAAJ
+  description: Coming soon!
+  repo: csun-carelab
   tags:
-    - software
+    - algorithm
+    - robot
 
 - title: Multi-Human-Robot Coordination
-  subtitle: a subtitle
+  subtitle: fair task allocation
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://scholar.google.com/citations?user=S4Pgrb8AAAAJ
+  description: Coming soon!
+  repo: csun-carelab
   tags:
-    - software
+    - human
+    - algorithm

@@ -9,7 +9,7 @@ nav:
 
 Each of our projects centers on one or more of three elements: the *robot*, the *algorithm* that drives the robot, or the *human* that interacts with the robot. You select an element below to sort our research accordingly.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="robot, algorithm, human" %}
 
 {% include search-info.html %}
 
