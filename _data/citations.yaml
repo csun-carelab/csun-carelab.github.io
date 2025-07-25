@@ -70,3 +70,61 @@
   image: images/photo.jpg
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.48550/arXiv.2504.17959
+  title: 'CIVIL: Causal and Intuitive Visual Imitation Learning'
+  authors:
+  - Yinlong Dai
+  - Robert Ramirez Sanchez
+  - Ryan Jeronimus
+  - Shahabedin Sagheb
+  - Cara M. Nunez
+  - Heramb Nemlekar
+  - Dylan P. Losey
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g9t83x
+  image: images/photo.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2501.01323
+  title: 'Kiri-Spoon: A Kirigami Utensil for Robot-Assisted Feeding'
+  authors:
+  - Maya Keely
+  - Brandon Franco
+  - Casey Grothoff
+  - Rajat Kumar Jenamani
+  - Tapomayukh Bhattacharjee
+  - Dylan P. Losey
+  - Heramb Nemlekar
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g84k4d
+  image: images/photo.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2409.13607
+  title: 'RECON: Reducing Causal Confusion with Human-Placed Markers'
+  authors:
+  - Robert Ramirez Sanchez
+  - Heramb Nemlekar
+  - Shahabedin Sagheb
+  - Cara M. Nunez
+  - Dylan P. Losey
+  publisher: arXiv
+  date: '2024-01-01'
+  link: https://doi.org/g9t832
+  image: images/photo.jpg
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Fair Contextual Multi-Armed Bandits: Theory and Experiments'
+  authors:
+  - Yifang Chen
+  - Alex Cuellar
+  - Haipeng Luo
+  - Jignesh Modi
+  - Heramb Nemlekar
+  - Stefanos Nikolaidis
+  publisher: Conference on Uncertainty in Artificial Intelligence
+  date: '2020-08-27'
+  plugin: sources.py
+  file: sources.yaml
