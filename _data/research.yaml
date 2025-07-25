@@ -3,7 +3,7 @@
   group: current
   image: images/research_photo.png
   link: https://csun-carelab.github.io/research
-  description: We make it easy for robots (and for humans who operate them) to perform dexterous tasks such as scooping ice cream.
+  description: We make it easier for robots (and for humans who operate them) to perform dexterous tasks like scooping ice cream.
   repo: csun-carelab
   tags:
     - robot
@@ -13,7 +13,7 @@
   group: current
   image: images/thread_learn.png
   link: https://csun-carelab.github.io/research
-  description: We create intelligent robots that can learn to perform assistive tasks (e.g., making coffee) from human data.
+  description: We create intelligent robots that can learn everday tasks (e.g., making coffee) from human demonstrations.
   repo: csun-carelab
   tags:
     - algorithm
@@ -23,7 +23,7 @@
   group: current
   image: images/thread_interact.png
   link: https://csun-carelab.github.io/research
-  description: We design intuitive and interactive interfaces for humans to understand and personalize robot behavior.
+  description: We design user-friendly and interactive interfaces for humans to understand robots and personalize their behavior.
   repo: csun-carelab
   tags:
     - human
