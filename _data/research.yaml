@@ -9,7 +9,7 @@
     - robot
 
 - title: Robot Learning
-  subtitle: imitation learning, vision-language-action models, latent representation
+  subtitle: imitation learning, vision-language-action models
   group: current
   image: images/thread_learn.png
   link: https://csun-carelab.github.io/research
@@ -19,11 +19,11 @@
     - algorithm
 
 - title: Human Interaction
-  subtitle: graphic interfaces, personalization, user studies
+  subtitle: graphic interfaces, latent representation
   group: current
   image: images/thread_interact.png
   link: https://csun-carelab.github.io/research
-  description: We design communicative and intuitive interfaces for humans to understand robots and personalize their motion.
+  description: We design intuitive and communicative interfaces for humans to understand robots and personalize their motion.
   repo: csun-carelab
   tags:
     - human
