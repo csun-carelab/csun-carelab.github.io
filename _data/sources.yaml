@@ -18,3 +18,23 @@
 
 - id: doi:10.48550/arXiv.2505.12072
   image: images/photo.jpg
+
+- id: doi:10.48550/arXiv.2504.17959
+  image: images/photo.jpg
+
+- id: doi:10.48550/arXiv.2501.01323
+  image: images/photo.jpg
+
+- id: doi:10.48550/arXiv.2409.13607
+  image: images/photo.jpg
+
+- title: 'Fair Contextual Multi-Armed Bandits: Theory and Experiments'
+  authors:
+  - Yifang Chen
+  - Alex Cuellar
+  - Haipeng Luo
+  - Jignesh Modi
+  - Heramb Nemlekar
+  - Stefanos Nikolaidis
+  publisher: Conference on Uncertainty in Artificial Intelligence
+  date: 2020-08-27

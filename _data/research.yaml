@@ -23,7 +23,7 @@
   group: current
   image: images/thread_interact.png
   link: https://csun-carelab.github.io/research
-  description: We design intuitive and communicative interfaces for humans to understand robots and personalize their motion.
+  description: We develop intuitive and interactive interfaces for humans to understand robots and personalize their motion.
   repo: csun-carelab
   tags:
     - human
