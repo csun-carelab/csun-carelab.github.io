@@ -2,8 +2,8 @@
   subtitle: soft end-effectors, teleoperation devices
   group: current
   image: images/research_photo.png
-  link: https://scholar.google.com/citations?user=S4Pgrb8AAAAJ
-  description: We try to make it physically easy for robots (and for humans who operate them) to perform dexterous tasks such as scooping ice cream.
+  link: https://csun-carelab.github.io/research
+  description: We make it easy for robots (and for humans who operate them) to perform dexterous tasks such as scooping ice cream.
   repo: csun-carelab
   tags:
     - robot
@@ -12,8 +12,8 @@
   subtitle: imitation learning, vision-language-action models, latent representation
   group: current
   image: images/thread_learn.png
-  link: https://scholar.google.com/citations?user=S4Pgrb8AAAAJ
-  description: We want to create intelligent robots that can learn to perform assistive tasks (e.g., making coffee) from human data.
+  link: https://csun-carelab.github.io/research
+  description: We create intelligent robots that can learn to perform assistive tasks (e.g., making coffee) from human data.
   repo: csun-carelab
   tags:
     - algorithm
@@ -22,8 +22,8 @@
   subtitle: graphic interfaces, personalization, user studies
   group: current
   image: images/thread_interact.png
-  link: https://scholar.google.com/citations?user=S4Pgrb8AAAAJ
-  description: We need more intuitive and interactive interfaces for humans to understand and personalize robot behavior.
+  link: https://csun-carelab.github.io/research
+  description: We design intuitive and interactive interfaces for humans to understand and personalize robot behavior.
   repo: csun-carelab
   tags:
     - human
@@ -31,7 +31,7 @@
 - title: Task and Motion Planning
   subtitle: contingency, permeable obstacles
   image: images/photo.jpg
-  link: https://scholar.google.com/citations?user=S4Pgrb8AAAAJ
+  link: https://csun-carelab.github.io/research
   description: Coming soon!
   repo: csun-carelab
   tags:
@@ -41,7 +41,7 @@
 - title: Multi-Human-Robot Coordination
   subtitle: fair task allocation
   image: images/photo.jpg
-  link: https://scholar.google.com/citations?user=S4Pgrb8AAAAJ
+  link: https://csun-carelab.github.io/research
   description: Coming soon!
   repo: csun-carelab
   tags:
