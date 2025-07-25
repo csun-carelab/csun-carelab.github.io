@@ -1,0 +1,72 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1145/3737894
+  title: 'PECAN: Personalizing Robot Behaviors through a Learned Canonical Space'
+  authors:
+  - Heramb Nemlekar
+  - Robert Ramirez Sanchez
+  - Dylan P. Losey
+  publisher: ACM Transactions on Human-Robot Interaction
+  date: '2025-05-29'
+  link: https://doi.org/g9t7mk
+  orcid: 0000-0002-6806-9704
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/TASE.2025.3546281
+  title: Proactive Contingency-Aware Task Allocation and Scheduling in Multi-Robot
+    Multi-Human Cells via Hindsight Optimization
+  authors:
+  - Neel Dhanaraj
+  - Heramb Nemlekar
+  - Stefanos Nikolaidis
+  - Satyandra K. Gupta
+  publisher: IEEE Transactions on Automation Science and Engineering
+  date: '2025-01-01'
+  link: https://doi.org/g9t7mn
+  orcid: 0000-0002-6806-9704
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/LRA.2024.3415432
+  title: Selecting Source Tasks for Transfer Learning of Human Preferences
+  authors:
+  - Heramb Nemlekar
+  - Naren Sivagnanadasan
+  - Subham Banga
+  - Neel Dhanaraj
+  - Satyandra K. Gupta
+  - Stefanos Nikolaidis
+  publisher: IEEE Robotics and Automation Letters
+  date: '2024-08-01'
+  link: https://doi.org/g9t7mp
+  orcid: 0000-0002-6806-9704
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1145/3568162.3576965
+  title: Transfer Learning of Human Preferences for Proactive Robot Assistance in
+    Assembly Tasks
+  authors:
+  - Heramb Nemlekar
+  - Neel Dhanaraj
+  - Angelos Guan
+  - Satyandra K. Gupta
+  - Stefanos Nikolaidis
+  publisher: Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot
+    Interaction
+  date: '2023-03-13'
+  link: https://doi.org/g9t7mq
+  orcid: 0000-0002-6806-9704
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2505.12072
+  title: 'L2D2: Robot Learning from 2D Drawings'
+  authors:
+  - Shaunak A. Mehta
+  - Heramb Nemlekar
+  - Hari Sumant
+  - Dylan P. Losey
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g9t7nh
+  image: images/photo.jpg
+  plugin: sources.py
+  file: sources.yaml
