@@ -13,7 +13,7 @@ For a complete list of our publications please visit the PI's [google scholar pa
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Selecting Source Tasks for Transfer Learning of Human Preferences" style="rich" %}
 
 {% include section.html %}
 
