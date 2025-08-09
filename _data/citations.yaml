@@ -57,6 +57,48 @@
   orcid: 0000-0002-6806-9704
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1109/iros51168.2021.9636396
+  title: Robotic Lime Picking by Considering Leaves as Permeable Obstacles
+  authors:
+  - Heramb Nemlekar
+  - Ziang Liu
+  - Suraj Kothawade
+  - Sherdil Niyaz
+  - Barath Raghavan
+  - Stefanos Nikolaidis
+  publisher: 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  date: '2021-09-27'
+  link: https://doi.org/g9wj6m
+  orcid: 0000-0002-6806-9704
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icra48506.2021.9561649
+  title: Two-Stage Clustering of Human Preferences for Action Prediction in Assembly
+    Tasks
+  authors:
+  - Heramb Nemlekar
+  - Jignesh Modi
+  - Satyandra K. Gupta
+  - Stefanos Nikolaidis
+  publisher: 2021 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2021-05-30'
+  link: https://doi.org/g9wj6p
+  orcid: 0000-0002-6806-9704
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icra.2019.8794008
+  title: Object Transfer Point Estimation for Fluent Human-Robot Handovers
+  authors:
+  - Heramb Nemlekar
+  - Dharini Dutia
+  - Zhi Li
+  publisher: 2019 International Conference on Robotics and Automation (ICRA)
+  date: '2019-05-01'
+  link: https://doi.org/g9wj6q
+  orcid: 0000-0002-6806-9704
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.48550/arXiv.2505.12072
   title: 'L2D2: Robot Learning from 2D Drawings'
   authors:
