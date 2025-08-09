@@ -1,7 +1,7 @@
 - title: Mechanism Design
   subtitle: soft end-effectors, teleoperation devices
   group: current
-  image: images/research_photo.png
+  image: images/thread_mech.png
   link: https://csun-carelab.github.io/research
   description: We make it easier for robots (and for humans who operate them) to perform dexterous tasks like scooping ice cream.
   repo: csun-carelab
