@@ -30,7 +30,7 @@
 
 - title: Task and Motion Planning
   subtitle: contingency, permeable obstacles
-  image: images/photo.jpg
+  image: images/thread_motion.jpg
   link: https://csun-carelab.github.io/research
   description: Coming soon!
   repo: csun-carelab
@@ -40,7 +40,7 @@
 
 - title: Multi-Human-Robot Coordination
   subtitle: fair task allocation
-  image: images/photo.jpg
+  image: images/thread_multi.png
   link: https://csun-carelab.github.io/research
   description: Coming soon!
   repo: csun-carelab
