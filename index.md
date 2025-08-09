@@ -28,7 +28,7 @@ We explore several aspects of human-robot interaction. Broadly, our work can be 
 
 {%
   include feature.html
-  image="images/research_photo1.png"
+  image="images/research_photo2.png"
   link="research"
   title="Our Research"
   text=text
