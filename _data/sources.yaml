@@ -16,6 +16,12 @@
 #     - collaboration
 #   repo: greenelab/meta-review
 
+- id: doi:10.1145/3737894
+  image: images/paper_pecan.png
+  tags:
+    - human interaction
+    - robot learning
+
 - id: doi:10.48550/arXiv.2505.12072
   image: images/photo.jpg
 

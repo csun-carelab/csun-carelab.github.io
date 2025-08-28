@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
 We are actively looking for graduate and undergradute students to join our research group!
-Please send an email with your resume and a short description of your interests to Dr. Nemlekar at heramb.nemlekar@csun.edu
+Please send an email with your resume and a short description of your interests to Dr. Nemlekar at <span style="color: tomato;">heramb.nemlekar@csun.edu</span>
 
 {% include section.html %}
 
