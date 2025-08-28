@@ -22,7 +22,7 @@
   subtitle: graphic interfaces, latent representation
   group: current
   image: images/thread_interact.png
-  link: https://csun-carelab.github.io/research
+  link: https://csun-carelab.github.io/publications/?search=%22tag:%20human-interaction%22
   description: We develop interactive and intuitive user-interfaces for humans to understand robots and personalize their motion.
   repo: csun-carelab
   tags:
