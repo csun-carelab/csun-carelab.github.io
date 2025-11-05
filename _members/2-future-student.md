@@ -1,5 +1,5 @@
 ---
-name: Future Student
+name: Matias Torres Galaz
 image: images/photo.jpg
 role: undergrad
 # group: alum  # don't know what this does
