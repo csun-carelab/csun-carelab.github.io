@@ -7,7 +7,7 @@
   - Robert Ramirez Sanchez
   - Dylan P. Losey
   publisher: ACM Transactions on Human-Robot Interaction
-  date: '2025-05-29'
+  date: '2025-08-20'
   link: https://doi.org/g9t7mk
   orcid: 0000-0002-6806-9704
   plugin: sources.py
@@ -16,6 +16,31 @@
   tags:
   - human interaction
   - robot learning
+- id: doi:10.1007/s10514-025-10210-x
+  title: 'L2D2: Robot Learning from 2D drawings'
+  authors:
+  - Shaunak A. Mehta
+  - Heramb Nemlekar
+  - Hari Sumant
+  - Dylan P. Losey
+  publisher: Autonomous Robots
+  date: '2025-09-01'
+  link: https://doi.org/g989wp
+  orcid: 0000-0002-6806-9704
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icra55743.2025.11128246
+  title: Personalizing Interfaces to Humans with User-Friendly Priors
+  authors:
+  - Benjamin A. Christie
+  - Heramb Nemlekar
+  - Dylan P. Losey
+  publisher: 2025 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2025-05-19'
+  link: https://doi.org/g989wq
+  orcid: 0000-0002-6806-9704
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/TASE.2025.3546281
   title: Proactive Contingency-Aware Task Allocation and Scheduling in Multi-Robot
     Multi-Human Cells via Hindsight Optimization
@@ -27,6 +52,34 @@
   publisher: IEEE Transactions on Automation Science and Engineering
   date: '2025-01-01'
   link: https://doi.org/g9t7mn
+  orcid: 0000-0002-6806-9704
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/iros58592.2024.10801346
+  title: 'Kiri-Spoon: A Soft Shape-Changing Utensil for Robot-Assisted Feeding'
+  authors:
+  - Maya N. Keely
+  - Heramb Nemlekar
+  - Dylan P. Losey
+  publisher: 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems
+    (IROS)
+  date: '2024-10-14'
+  link: https://doi.org/g989wr
+  orcid: 0000-0002-6806-9704
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/icra57147.2024.10611370
+  title: Multi-Robot Task Allocation Under Uncertainty Via Hindsight Optimization
+  authors:
+  - Neel Dhanaraj
+  - Jeon Ho Kang
+  - Anirban Mukherjee
+  - Heramb Nemlekar
+  - Stefanos Nikolaidis
+  - Satyandra K. Gupta
+  publisher: 2024 IEEE International Conference on Robotics and Automation (ICRA)
+  date: '2024-05-13'
+  link: https://doi.org/g989ws
   orcid: 0000-0002-6806-9704
   plugin: orcid.py
   file: orcid.yaml
@@ -61,6 +114,47 @@
   orcid: 0000-0002-6806-9704
   plugin: orcid.py
   file: orcid.yaml
+- id: wosuid:WOS:001221201500024
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:001221201500024
+  orcid: 0000-0002-6806-9704
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ro-man53752.2022.9900551
+  title: Human-Guided Goal Assignment to Effectively Manage Workload for a Smart Robotic
+    Assistant
+  authors:
+  - Neel Dhanaraj
+  - Rishi Malhan
+  - Heramb Nemlekar
+  - Stefanos Nikolaidis
+  - Satyandra K. Gupta
+  publisher: 2022 31st IEEE International Conference on Robot and Human Interactive
+    Communication (RO-MAN)
+  date: '2022-08-29'
+  link: https://doi.org/g989wv
+  orcid: 0000-0002-6806-9704
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1109/ro-man53752.2022.9900872
+  title: Towards Transferring Human Preferences from Canonical to Actual Assembly
+    Tasks
+  authors:
+  - Heramb Nemlekar
+  - Runyu Guan
+  - Guanyang Luo
+  - Satyandra K. Gupta
+  - Stefanos Nikolaidis
+  publisher: 2022 31st IEEE International Conference on Robot and Human Interactive
+    Communication (RO-MAN)
+  date: '2022-08-29'
+  link: https://doi.org/g989ww
+  orcid: 0000-0002-6806-9704
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1109/iros51168.2021.9636396
   title: Robotic Lime Picking by Considering Leaves as Permeable Obstacles
   authors:
@@ -88,6 +182,15 @@
   publisher: 2021 IEEE International Conference on Robotics and Automation (ICRA)
   date: '2021-05-30'
   link: https://doi.org/g9wj6p
+  orcid: 0000-0002-6806-9704
+  plugin: orcid.py
+  file: orcid.yaml
+- id: wosuid:WOS:000723388600019
+  title: Web of Science
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000723388600019
   orcid: 0000-0002-6806-9704
   plugin: orcid.py
   file: orcid.yaml
