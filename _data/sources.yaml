@@ -17,16 +17,18 @@
 #   repo: greenelab/meta-review
 
 - id: doi:10.48550/arXiv.2504.17959
-  image: images/photo.jpg
+  image: images/paper_civil2026.png
 
 - id: doi:10.48550/arXiv.2501.01323
-  image: images/photo.jpg
+  image: images/thread_design.png
 
 - id: doi:10.48550/arXiv.2409.13607
-  image: images/photo.jpg
+  image: images/paper_recon2025.png
+  tags:
+    - robot learning
 
 - id: doi:10.1145/3737894
-  image: images/paper_pecan.png
+  image: images/paper_pecan2025.png
   tags:
     - human interaction
     - robot learning
