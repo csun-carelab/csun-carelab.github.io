@@ -13,6 +13,7 @@ Please send an email with your resume and a short description of your interests 
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+
 {% include list.html data="members" component="portrait" filter="role != 'pi'" %}
 
 {% include section.html background="images/background.jpg" dark=false %}
@@ -20,13 +21,5 @@ Please send an email with your resume and a short description of your interests 
 *"Scenius stands for the intelligence and the intuition of a whole cultural scene. It is the communal form of the concept of the genius." - Brian Eno*
 
 {% include section.html %}
-
-{% capture content %}
-
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-
-{% endcapture %}
 
 {% include grid.html style="square" content=content %}

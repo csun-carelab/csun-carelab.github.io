@@ -36,7 +36,7 @@ We explore several aspects of human-robot interaction. Broadly, our work can be 
 
 {% capture text %}
 
-Our research efforts are led by self-motivated and hard-working students from the CSUN community. We are **actively recruiting** --- interested undergraduate and graduate students should contact the PI (email: <span style="color: tomato;">heramb.nemlekar@csun.edu</span>).
+Our research efforts are led by self-motivated and hard-working students from the CSUN community. If you are interested in joining our research please contact the PI (email: <span style="color: tomato;">heramb.nemlekar@csun.edu</span>).
 
 {%
   include button.html
