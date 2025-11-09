@@ -221,7 +221,7 @@
   orcid: 0000-0002-6806-9704
   plugin: sources.py
   file: sources.yaml
-  image: images/paper_clustering.jpg
+  image: images/paper_clustering2021.jpg
   tags:
   - robot learning
   - human interaction
