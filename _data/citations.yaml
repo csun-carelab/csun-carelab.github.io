@@ -12,7 +12,7 @@
   orcid: 0000-0002-6806-9704
   plugin: sources.py
   file: sources.yaml
-  image: images/paper_pecan.png
+  image: images/paper_pecan2025.png
   tags:
   - human interaction
   - robot learning
@@ -262,7 +262,7 @@
   publisher: arXiv
   date: '2025-01-01'
   link: https://doi.org/g9t83x
-  image: images/photo.jpg
+  image: images/paper_civil2026.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2501.01323
@@ -278,7 +278,7 @@
   publisher: arXiv
   date: '2025-01-01'
   link: https://doi.org/g84k4d
-  image: images/photo.jpg
+  image: images/thread_design.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2409.13607
@@ -292,7 +292,9 @@
   publisher: arXiv
   date: '2024-01-01'
   link: https://doi.org/g9t832
-  image: images/photo.jpg
+  image: images/paper_recon2025.png
+  tags:
+  - robot learning
   plugin: sources.py
   file: sources.yaml
 - title: 'Fair Contextual Multi-Armed Bandits: Theory and Experiments'
