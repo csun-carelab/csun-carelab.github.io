@@ -29,7 +29,7 @@
     - human
 
 - title: Task and Motion Planning
-  subtitle: contingency, permeable obstacles
+  subtitle: permeable obstacles
   image: images/thread_motion.png
   link: https://csun-carelab.github.io/publications/?search=%22tag:%20planning%22
   description: Coming soon!
@@ -38,7 +38,7 @@
     - algorithm
 
 - title: Multi-Agent Coordination
-  subtitle: fair task allocation
+  subtitle: task allocation
   image: images/thread_multi.png
   link: https://csun-carelab.github.io/publications/?search=%22tag:%20multi-agent-coordination%22
   description: Coming soon!
