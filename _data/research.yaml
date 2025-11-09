@@ -38,7 +38,7 @@
     - algorithm
     - robot
 
-- title: Multi-Human-Robot Coordination
+- title: Multi-Agent Coordination
   subtitle: fair task allocation
   image: images/thread_multi.png
   link: https://csun-carelab.github.io/research
