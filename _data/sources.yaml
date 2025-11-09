@@ -16,6 +16,15 @@
 #     - collaboration
 #   repo: greenelab/meta-review
 
+- id: doi:10.48550/arXiv.2504.17959
+  image: images/photo.jpg
+
+- id: doi:10.48550/arXiv.2501.01323
+  image: images/photo.jpg
+
+- id: doi:10.48550/arXiv.2409.13607
+  image: images/photo.jpg
+
 - id: doi:10.1145/3737894
   image: images/paper_pecan.png
   tags:
@@ -37,6 +46,7 @@
   image: images/paper_contingency2025.jpg
   tags:
     - multi-agent coordination
+    - planning
 
 - id: doi:10.1109/iros58592.2024.10801346
   image: images/paper_kiri2024.png
@@ -48,6 +58,7 @@
   image: images/paper_neel2024.png
   tags:
     - multi-agent coordination
+    - planning
 
 - id: doi:10.1109/LRA.2024.3415432
   image: images/paper_selecting2023.png
@@ -73,6 +84,14 @@
 
 - id: doi:10.1109/iros51168.2021.9636396
   image: images/thread_motion.png
+  tags: 
+    - planning
+
+- id: doi:10.1109/icra48506.2021.9561649
+  image: images/paper_clustering.jpg
+  tags:
+    - robot learning
+    - human interaction
 
 - title: 'Fair Contextual Multi-Armed Bandits: Theory and Experiments'
   authors:
@@ -89,11 +108,7 @@
     - multi-agent coordination
     - human interaction
 
-- id: doi:10.48550/arXiv.2504.17959
-  image: images/photo.jpg
-
-- id: doi:10.48550/arXiv.2501.01323
-  image: images/photo.jpg
-
-- id: doi:10.48550/arXiv.2409.13607
-  image: images/photo.jpg
+- id: doi:10.1109/icra.2019.8794008
+  image: images/paper_handover2019.png
+  tags:
+    - human interaction

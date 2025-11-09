@@ -2,7 +2,7 @@
   subtitle: soft end-effectors, teleoperation devices
   group: current
   image: images/thread_mech.png
-  link: https://csun-carelab.github.io/research
+  link: https://csun-carelab.github.io/publications/?search=%22tag:%20mechanism-design%22
   description: We make it easier for robots (and for humans who operate them) to perform dexterous tasks like scooping ice cream.
   repo: csun-carelab
   tags:
@@ -12,7 +12,7 @@
   subtitle: imitation learning, vision-language-action models
   group: current
   image: images/thread_learn.png
-  link: https://csun-carelab.github.io/research
+  link: https://csun-carelab.github.io/publications/?search=%22tag:%20robot-learning%22
   description: We create intelligent robots that can learn everday tasks (e.g., making coffee) from human demonstrations.
   repo: csun-carelab
   tags:
@@ -31,12 +31,11 @@
 - title: Task and Motion Planning
   subtitle: contingency, permeable obstacles
   image: images/thread_motion.png
-  link: https://csun-carelab.github.io/research
+  link: https://csun-carelab.github.io/publications/?search=%22tag:%20planning%22
   description: Coming soon!
   repo: csun-carelab
   tags:
     - algorithm
-    - robot
 
 - title: Multi-Agent Coordination
   subtitle: fair task allocation
