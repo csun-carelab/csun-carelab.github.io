@@ -34,6 +34,9 @@
 - id: doi:10.48550/arXiv.2409.13607
   image: images/photo.jpg
 
+- id: doi:10.1109/LRA.2024.3415432
+  image: images/paper_selecting2023
+
 - title: 'Fair Contextual Multi-Armed Bandits: Theory and Experiments'
   authors:
   - Yifang Chen
