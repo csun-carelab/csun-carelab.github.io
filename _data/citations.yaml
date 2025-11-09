@@ -249,6 +249,20 @@
   image: images/paper_handover2019.png
   tags:
   - human interaction
+- id: doi:10.48550/arXiv.2508.06319
+  title: Towards Balanced Behavior Cloning from Imbalanced Datasets
+  authors:
+  - Sagar Parekh
+  - Heramb Nemlekar
+  - Dylan P. Losey
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/g99tfr
+  image: images/paper_balanced2026.png
+  tags:
+  - robot learning
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.48550/arXiv.2504.17959
   title: 'CIVIL: Causal and Intuitive Visual Imitation Learning'
   authors:
@@ -263,6 +277,8 @@
   date: '2025-01-01'
   link: https://doi.org/g9t83x
   image: images/paper_civil2026.png
+  tags:
+  - robot learning
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2501.01323
@@ -279,6 +295,9 @@
   date: '2025-01-01'
   link: https://doi.org/g84k4d
   image: images/thread_design.png
+  tags:
+  - mechanism design
+  - human interaction
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2409.13607
@@ -293,6 +312,24 @@
   date: '2024-01-01'
   link: https://doi.org/g9t832
   image: images/paper_recon2025.png
+  tags:
+  - robot learning
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.48550/arXiv.2304.13787
+  title: Surrogate Assisted Generation of Human-Robot Interaction Scenarios
+  authors:
+  - Varun Bhatt
+  - Heramb Nemlekar
+  - Matthew C. Fontaine
+  - Bryon Tjanaka
+  - Hejia Zhang
+  - Ya-Chuan Hsu
+  - Stefanos Nikolaidis
+  publisher: arXiv
+  date: '2023-01-01'
+  link: https://doi.org/g99tfs
+  image: images/paper_surrogate2023.png
   tags:
   - robot learning
   plugin: sources.py
