@@ -64,7 +64,7 @@
   file: sources.yaml
   image: images/paper_contingency2025.jpg
   tags:
-  - multi agent
+  - multi-agent coordination
 - id: doi:10.1109/iros58592.2024.10801346
   title: 'Kiri-Spoon: A Soft Shape-Changing Utensil for Robot-Assisted Feeding'
   authors:
@@ -80,6 +80,7 @@
   file: sources.yaml
   image: images/paper_kiri2024.png
   tags:
+  - mechanism design
   - human interaction
 - id: doi:10.1109/icra57147.2024.10611370
   title: Multi-Robot Task Allocation Under Uncertainty Via Hindsight Optimization
@@ -94,8 +95,11 @@
   date: '2024-05-13'
   link: https://doi.org/g989ws
   orcid: 0000-0002-6806-9704
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/paper_neel2024.png
+  tags:
+  - multi-agent coordination
 - id: doi:10.1109/LRA.2024.3415432
   title: Selecting Source Tasks for Transfer Learning of Human Preferences
   authors:
@@ -113,7 +117,6 @@
   file: sources.yaml
   image: images/paper_selecting2023.png
   tags:
-  - human interaction
   - robot learning
 - id: doi:10.1145/3568162.3576965
   title: Transfer Learning of Human Preferences for Proactive Robot Assistance in
@@ -129,8 +132,12 @@
   date: '2023-03-13'
   link: https://doi.org/g9t7mq
   orcid: 0000-0002-6806-9704
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/paper_transfer2023.png
+  tags:
+  - robot learning
+  - human interaction
 - id: wosuid:WOS:001221201500024
   title: Web of Science
   authors: []
@@ -154,8 +161,12 @@
   date: '2022-08-29'
   link: https://doi.org/g989wv
   orcid: 0000-0002-6806-9704
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/paper_assignment2022.png
+  tags:
+  - multi-agent coordination
+  - human interaction
 - id: doi:10.1109/ro-man53752.2022.9900872
   title: Towards Transferring Human Preferences from Canonical to Actual Assembly
     Tasks
@@ -170,8 +181,11 @@
   date: '2022-08-29'
   link: https://doi.org/g989ww
   orcid: 0000-0002-6806-9704
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/paper_canonical2022.jpg
+  tags:
+  - human interaction
 - id: doi:10.1109/iros51168.2021.9636396
   title: Robotic Lime Picking by Considering Leaves as Permeable Obstacles
   authors:
@@ -186,8 +200,9 @@
   date: '2021-09-27'
   link: https://doi.org/g9wj6m
   orcid: 0000-0002-6806-9704
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/thread_motion.png
 - id: doi:10.1109/icra48506.2021.9561649
   title: Two-Stage Clustering of Human Preferences for Action Prediction in Assembly
     Tasks
@@ -223,17 +238,20 @@
   orcid: 0000-0002-6806-9704
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.48550/arXiv.2505.12072
-  title: 'L2D2: Robot Learning from 2D Drawings'
+- title: 'Fair Contextual Multi-Armed Bandits: Theory and Experiments'
   authors:
-  - Shaunak A. Mehta
+  - Yifang Chen
+  - Alex Cuellar
+  - Haipeng Luo
+  - Jignesh Modi
   - Heramb Nemlekar
-  - Hari Sumant
-  - Dylan P. Losey
-  publisher: arXiv
-  date: '2025-01-01'
-  link: https://doi.org/g9t7nh
-  image: images/photo.jpg
+  - Stefanos Nikolaidis
+  publisher: Conference on Uncertainty in Artificial Intelligence
+  date: '2020-08-27'
+  image: images/thread_multi.png
+  tags:
+  - multi-agent coordination
+  - human interaction
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.48550/arXiv.2504.17959
@@ -280,17 +298,5 @@
   date: '2024-01-01'
   link: https://doi.org/g9t832
   image: images/photo.jpg
-  plugin: sources.py
-  file: sources.yaml
-- title: 'Fair Contextual Multi-Armed Bandits: Theory and Experiments'
-  authors:
-  - Yifang Chen
-  - Alex Cuellar
-  - Haipeng Luo
-  - Jignesh Modi
-  - Heramb Nemlekar
-  - Stefanos Nikolaidis
-  publisher: Conference on Uncertainty in Artificial Intelligence
-  date: '2020-08-27'
   plugin: sources.py
   file: sources.yaml
