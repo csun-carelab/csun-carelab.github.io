@@ -25,8 +25,23 @@
 - id: doi:10.1007/s10514-025-10210-x
   image: images/paper_l2d22025.png
   tags:
+    - robot learning
+
+- id: doi:10.1109/icra55743.2025.11128246
+  image: images/paper_ben2025.png
+  tags:
     - human interaction
     - robot learning
+
+- id: doi:10.1109/TASE.2025.3546281
+  image: images/paper_contingency2025.jpg
+  tags:
+    - multi agent
+
+- id: doi:10.1109/iros58592.2024.10801346
+  image: images/paper_kiri2024.png
+  tags:
+    - human interaction
 
 - id: doi:10.48550/arXiv.2505.12072
   image: images/photo.jpg
