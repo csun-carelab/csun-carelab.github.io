@@ -65,6 +65,7 @@
   image: images/paper_contingency2025.jpg
   tags:
   - multi-agent coordination
+  - planning
 - id: doi:10.1109/iros58592.2024.10801346
   title: 'Kiri-Spoon: A Soft Shape-Changing Utensil for Robot-Assisted Feeding'
   authors:
@@ -100,6 +101,7 @@
   image: images/paper_neel2024.png
   tags:
   - multi-agent coordination
+  - planning
 - id: doi:10.1109/LRA.2024.3415432
   title: Selecting Source Tasks for Transfer Learning of Human Preferences
   authors:
@@ -203,6 +205,8 @@
   plugin: sources.py
   file: sources.yaml
   image: images/thread_motion.png
+  tags:
+  - planning
 - id: doi:10.1109/icra48506.2021.9561649
   title: Two-Stage Clustering of Human Preferences for Action Prediction in Assembly
     Tasks
@@ -215,8 +219,12 @@
   date: '2021-05-30'
   link: https://doi.org/g9wj6p
   orcid: 0000-0002-6806-9704
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/paper_clustering.jpg
+  tags:
+  - robot learning
+  - human interaction
 - id: wosuid:WOS:000723388600019
   title: Web of Science
   authors: []
@@ -236,24 +244,11 @@
   date: '2019-05-01'
   link: https://doi.org/g9wj6q
   orcid: 0000-0002-6806-9704
-  plugin: orcid.py
-  file: orcid.yaml
-- title: 'Fair Contextual Multi-Armed Bandits: Theory and Experiments'
-  authors:
-  - Yifang Chen
-  - Alex Cuellar
-  - Haipeng Luo
-  - Jignesh Modi
-  - Heramb Nemlekar
-  - Stefanos Nikolaidis
-  publisher: Conference on Uncertainty in Artificial Intelligence
-  date: '2020-08-27'
-  image: images/thread_multi.png
-  tags:
-  - multi-agent coordination
-  - human interaction
   plugin: sources.py
   file: sources.yaml
+  image: images/paper_handover2019.png
+  tags:
+  - human interaction
 - id: doi:10.48550/arXiv.2504.17959
   title: 'CIVIL: Causal and Intuitive Visual Imitation Learning'
   authors:
@@ -298,5 +293,21 @@
   date: '2024-01-01'
   link: https://doi.org/g9t832
   image: images/photo.jpg
+  plugin: sources.py
+  file: sources.yaml
+- title: 'Fair Contextual Multi-Armed Bandits: Theory and Experiments'
+  authors:
+  - Yifang Chen
+  - Alex Cuellar
+  - Haipeng Luo
+  - Jignesh Modi
+  - Heramb Nemlekar
+  - Stefanos Nikolaidis
+  publisher: Conference on Uncertainty in Artificial Intelligence
+  date: '2020-08-27'
+  image: images/thread_multi.png
+  tags:
+  - multi-agent coordination
+  - human interaction
   plugin: sources.py
   file: sources.yaml
