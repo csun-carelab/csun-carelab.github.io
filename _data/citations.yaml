@@ -31,7 +31,6 @@
   file: sources.yaml
   image: images/paper_l2d22025.png
   tags:
-  - human interaction
   - robot learning
 - id: doi:10.1109/icra55743.2025.11128246
   title: Personalizing Interfaces to Humans with User-Friendly Priors
@@ -43,8 +42,12 @@
   date: '2025-05-19'
   link: https://doi.org/g989wq
   orcid: 0000-0002-6806-9704
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/paper_ben2025.png
+  tags:
+  - human interaction
+  - robot learning
 - id: doi:10.1109/TASE.2025.3546281
   title: Proactive Contingency-Aware Task Allocation and Scheduling in Multi-Robot
     Multi-Human Cells via Hindsight Optimization
@@ -57,8 +60,11 @@
   date: '2025-01-01'
   link: https://doi.org/g9t7mn
   orcid: 0000-0002-6806-9704
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/paper_contingency2025.jpg
+  tags:
+  - multi agent
 - id: doi:10.1109/iros58592.2024.10801346
   title: 'Kiri-Spoon: A Soft Shape-Changing Utensil for Robot-Assisted Feeding'
   authors:
@@ -70,8 +76,11 @@
   date: '2024-10-14'
   link: https://doi.org/g989wr
   orcid: 0000-0002-6806-9704
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/paper_kiri2024.png
+  tags:
+  - human interaction
 - id: doi:10.1109/icra57147.2024.10611370
   title: Multi-Robot Task Allocation Under Uncertainty Via Hindsight Optimization
   authors:
