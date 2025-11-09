@@ -22,6 +22,12 @@
     - human interaction
     - robot learning
 
+- id: doi:10.1007/s10514-025-10210-x
+  image: images/paper_l2d22025.png
+  tags:
+    - human interaction
+    - robot learning
+
 - id: doi:10.48550/arXiv.2505.12072
   image: images/photo.jpg
 
@@ -35,7 +41,10 @@
   image: images/photo.jpg
 
 - id: doi:10.1109/LRA.2024.3415432
-  image: images/paper_selecting2023
+  image: images/paper_selecting2023.png
+  tags:
+    - human interaction
+    - robot learning
 
 - title: 'Fair Contextual Multi-Armed Bandits: Theory and Experiments'
   authors:
