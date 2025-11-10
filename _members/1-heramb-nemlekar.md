@@ -1,6 +1,6 @@
 ---
 name: Dr. Heramb Nemlekar
-image: images/heramb_nemlekar.jpg
+image: images/member_heramb.jpg
 role: principal-investigator
 affiliation: CSUN
 aliases:
