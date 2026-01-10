@@ -1,6 +1,6 @@
 ---
 name: Matias Torres Galaz
-image: images/photo.jpg
+image: images/Matias Torres Member.jpg
 role: undergrad
 # group: alum  # don't know what this does
 # links:
