@@ -43,7 +43,7 @@
   subtitle: permeable obstacles
   image: images/thread_motion.png
   link: https://csun-carelab.github.io/publications/?search=%22tag:%20planning%22
-  description: We develop planning methods for robots to navigate cluttered environments.
+  description: We develop planning methods for robots to safely navigate cluttered environments.
   repo: csun-carelab
   tags:
     - algorithm
