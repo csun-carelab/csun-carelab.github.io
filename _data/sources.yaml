@@ -16,6 +16,23 @@
 #     - collaboration
 #   repo: greenelab/meta-review
 
+- title: 'TacStyle: Personalizing Tactile Robot Policies using Structured Behavior Representations '
+  authors:
+  - Kevin Robledo
+  - Matías I. Torres Galaz
+  - Kumar Dixhant Rai
+  - Shelly Sara Ulman
+  - Tasmia Tasrin
+  - Heramb Nemlekar
+  publisher: arXiv
+  date: 2026-06-04
+  link: https://anonymouslab2026.github.io/TacStyle/
+  image: images/paper_tacstyle2026.png
+  tags:
+    - robot learning
+    - human interaction
+
+
 - id: doi:10.48550/arXiv.2508.06319
   image: images/paper_balanced2026.png
   tags:
