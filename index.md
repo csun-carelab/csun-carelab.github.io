@@ -51,7 +51,7 @@ Our research efforts are led by self-motivated and hard-working students from th
 
 {%
   include feature.html
-  image="images/team_photo.png"
+  image="images/team_photo.jpg"
   link="team"
   title="Our Team"
   flip=true
@@ -60,5 +60,6 @@ Our research efforts are led by self-motivated and hard-working students from th
 %}
 
 ## News
-
-Coming soon!
+- Our lab has received the Research, Scholarship and Creative Activity (RSCA) award for 2026-27.
+- Mahyar and Cesar were awarded 2nd place in the CSUNposium 2026 10-minute presentations.
+- MiniMed has funded our project on "General Robot Arm for Smart Packaging (GRASP)" in collaboration with [AIM lab](https://shwang45.github.io/shwang91/about) and [CSUN ARCS](https://arcs.center/).

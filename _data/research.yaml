@@ -3,7 +3,7 @@
   group: current
   image: images/thread_design.png
   link: https://csun-carelab.github.io/publications/?search=%22tag:%20mechanism-design%22
-  description: We make it easier for robots (and for humans who operate them) to perform dexterous tasks like scooping ice cream.
+  description: We make it easier for robots (and for humans who control them) to perform dexterous tasks like scooping cereal.
   repo: csun-carelab
   tags:
     - robot
@@ -13,7 +13,7 @@
   group: current
   image: images/thread_learn.png
   link: https://csun-carelab.github.io/publications/?search=%22tag:%20robot-learning%22
-  description: We create intelligent robots that can learn everday tasks (e.g., making coffee) from human demonstrations.
+  description: We develop intelligent robots that can learn everday tasks (e.g., making coffee) from human instructions.
   repo: csun-carelab
   tags:
     - algorithm
@@ -23,16 +23,27 @@
   group: current
   image: images/thread_interact.png
   link: https://csun-carelab.github.io/publications/?search=%22tag:%20human-interaction%22
-  description: We develop interactive and intuitive user-interfaces for humans to understand robots and personalize their motion.
+  description: We design interactive and intuitive user-interfaces for humans to understand robots and personalize their motion.
   repo: csun-carelab
   tags:
     - human
+
+
+- title: Industrial Automation
+  subtitle: 3d perception, pick and place
+  group: current
+  image: images/thread_automate.png
+  link: https://arcs.center/grasp-general-robotic-arm-for-smart-packaging/
+  description: We deploy robotic systems for industrial operations including manufacturing and packaging.
+  repo: csun-carelab
+  tags:
+    - robot
 
 - title: Task and Motion Planning
   subtitle: permeable obstacles
   image: images/thread_motion.png
   link: https://csun-carelab.github.io/publications/?search=%22tag:%20planning%22
-  description: Coming soon!
+  description: We develop algorithms that enable robots to move through cluttered environments.
   repo: csun-carelab
   tags:
     - algorithm
@@ -41,7 +52,7 @@
   subtitle: task allocation
   image: images/thread_multi.png
   link: https://csun-carelab.github.io/publications/?search=%22tag:%20multi-agent-coordination%22
-  description: Coming soon!
+  description: We develop algorithms for effective coordination in multi-robot and human-robot teams.
   repo: csun-carelab
   tags:
     - human
