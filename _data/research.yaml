@@ -3,7 +3,7 @@
   group: current
   image: images/thread_design.png
   link: https://csun-carelab.github.io/publications/?search=%22tag:%20mechanism-design%22
-  description: We make robot accessories to easily perform dexterous manipulations like scooping cereal.
+  description: We make novel accessories for robots to easily perform dexterous manipulations like scooping cereal.
   repo: csun-carelab
   tags:
     - robot
@@ -23,7 +23,7 @@
   group: current
   image: images/thread_interact.png
   link: https://csun-carelab.github.io/publications/?search=%22tag:%20human-interaction%22
-  description: We design interactive and intuitive user-interfaces to control and communicate with robots.
+  description: We design interactive and intuitive interfaces for users to control and communicate with robots.
   repo: csun-carelab
   tags:
     - human
