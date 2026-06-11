@@ -44,6 +44,7 @@
     - robot learning
 
 - id: doi:10.1177/02783649251405291
+  title: 'Kiri-Spoon: A Kirigami Utensil for Robot-Assisted Feeding'
   image: images/thread_design.png
   tags:
     - mechanism design
