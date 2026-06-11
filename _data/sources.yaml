@@ -16,7 +16,7 @@
 #     - collaboration
 #   repo: greenelab/meta-review
 
-- title: 'TacStyle: Personalizing Tactile Robot Policies using Structured Behavior Representations '
+- title: 'TacStyle: Personalizing Tactile Robot Policies using Structured Behavior Representations'
   authors:
   - Kevin Robledo
   - Matías I. Torres Galaz
@@ -34,7 +34,7 @@
 
 
 - id: doi:10.1007/s10514-025-10237-0
-  title: Towards Balanced Behavior Cloning from Imbalanced Datasets
+  title: 'Towards Balanced Behavior Cloning from Imbalanced Datasets'
   image: images/paper_balanced2026.png
   tags:
     - robot learning
