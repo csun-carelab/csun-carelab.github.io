@@ -29,7 +29,7 @@
   - human interaction
   - robot learning
 - id: doi:10.1177/02783649251405291
-  title: 'Kiri-Spoon: A kirigami utensil for robot-assisted feeding'
+  title: 'Kiri-Spoon: A Kirigami Utensil for Robot-Assisted Feeding'
   authors:
   - Maya Keely
   - Brandon Franco
@@ -281,6 +281,24 @@
   image: images/paper_handover2019.png
   tags:
   - human interaction
+- title: 'TacStyle: Personalizing Tactile Robot Policies using Structured Behavior
+    Representations '
+  authors:
+  - Kevin Robledo
+  - "Mat\xEDas I. Torres Galaz"
+  - Kumar Dixhant Rai
+  - Shelly Sara Ulman
+  - Tasmia Tasrin
+  - Heramb Nemlekar
+  publisher: arXiv
+  date: '2026-06-04'
+  link: https://anonymouslab2026.github.io/TacStyle/
+  image: images/paper_tacstyle2026.png
+  tags:
+  - robot learning
+  - human interaction
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.48550/arXiv.2508.06319
   title: Towards Balanced Behavior Cloning from Imbalanced Datasets
   authors:
@@ -313,7 +331,6 @@
   - robot learning
   plugin: sources.py
   file: sources.yaml
-
 - id: doi:10.48550/arXiv.2409.13607
   title: 'RECON: Reducing Causal Confusion with Human-Placed Markers'
   authors:
