@@ -12,11 +12,19 @@ Please send an email with your resume and a short description of your interests 
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role == 'principal-investigator'" %}
+{% include list.html data="members" component="portrait" filter="group != 'alum'" %}
 
-<br style="clear: both;">
+{% include section.html %}
 
-{% include list.html data="members" component="portrait" filter="role != 'principal-investigator'" %}
+## Alumni
+
+<ul>
+{% for member in site.members %}
+  {% if member.group == 'alum' %}
+  <li>{{ member.name }}</li>
+  {% endif %}
+{% endfor %}
+</ul>
 
 {% include section.html background="images/background.jpg" dark=false %}
 
@@ -26,9 +34,9 @@ Please send an email with your resume and a short description of your interests 
 
 {% capture content %}
 
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
-{% include figure.html image="images/photo.jpg" %}
+{% include figure.html image="images/robot1.jpg" %}
+{% include figure.html image="images/compute1.jpg" %}
+{% include figure.html image="images/robot2.jpeg" %}
 
 {% endcapture %}
 

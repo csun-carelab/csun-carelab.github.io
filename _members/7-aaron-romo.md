@@ -2,7 +2,6 @@
 name: Aaron Romo Jr.
 image: images/member_aaron.jpg
 role: undergrad
-# group: alum  # don't know what this does
 # links:
 #   github: future-student
 ---

@@ -3,7 +3,7 @@
   group: current
   image: images/thread_design.png
   link: https://csun-carelab.github.io/publications/?search=%22tag:%20mechanism-design%22
-  description: We make it easier for robots (and for humans who control them) to perform dexterous tasks like scooping cereal.
+  description: We make robot accessories to easily perform dexterous manipulations like scooping cereal.
   repo: csun-carelab
   tags:
     - robot
@@ -13,7 +13,7 @@
   group: current
   image: images/thread_learn.png
   link: https://csun-carelab.github.io/publications/?search=%22tag:%20robot-learning%22
-  description: We develop intelligent robots that can learn everday tasks (e.g., making coffee) from human instructions.
+  description: We develop intelligent robots that learn from humans and adapt to their preferences.
   repo: csun-carelab
   tags:
     - algorithm
@@ -23,7 +23,7 @@
   group: current
   image: images/thread_interact.png
   link: https://csun-carelab.github.io/publications/?search=%22tag:%20human-interaction%22
-  description: We design interactive and intuitive user-interfaces for humans to understand robots and personalize their motion.
+  description: We design interactive and intuitive user-interfaces to control and communicate with robots.
   repo: csun-carelab
   tags:
     - human
@@ -43,7 +43,7 @@
   subtitle: permeable obstacles
   image: images/thread_motion.png
   link: https://csun-carelab.github.io/publications/?search=%22tag:%20planning%22
-  description: We develop algorithms that enable robots to move through cluttered environments.
+  description: We develop planning methods for robots to navigate cluttered environments.
   repo: csun-carelab
   tags:
     - algorithm
@@ -52,7 +52,7 @@
   subtitle: task allocation
   image: images/thread_multi.png
   link: https://csun-carelab.github.io/publications/?search=%22tag:%20multi-agent-coordination%22
-  description: We develop algorithms for effective coordination in multi-robot and human-robot teams.
+  description: We develop frameworks for multi-robot and human-robot team coordination.
   repo: csun-carelab
   tags:
     - human

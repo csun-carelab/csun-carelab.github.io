@@ -2,7 +2,6 @@
 name: Kevin Robledo
 image: images/Kevin Robledo Member.JPG
 role: undergrad
-# group: alum  # don't know what this does
 # links:
 #   github: future-student
 ---

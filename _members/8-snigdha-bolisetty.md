@@ -2,7 +2,6 @@
 name: Snigdha Bolisetty
 image: images/member_snigdha.jpg
 role: undergrad
-# group: alum  # don't know what this does
 # links:
 #   github: future-student
 ---
